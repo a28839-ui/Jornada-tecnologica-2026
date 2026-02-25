@@ -30,5 +30,3 @@ Web informativa responsive para la Jornada Tecnológica Local 2026 usando **Boot
 ## 🐛 Mayor dificultad encontrada
 **Problema**: Navbar no colapsaba correctamente en móvil.  
 **Solución**: Revisé `data-bs-target="#navbarNav"` y corregí ID del collapse.
-
-![Captura final](./CAPTURAS/web-completa.png)
